@@ -21,6 +21,19 @@ text-align: center;
 margin-top: 250px;
 }
 
+h2 
+{
+padding: 25px;
+}
+
+.email
+{
+color: white;
+text-transform: uppercase;
+text-align: center;
+padding-top: 100px;
+}
+
 
 .main-nav
 {

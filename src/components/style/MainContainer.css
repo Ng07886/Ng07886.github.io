@@ -1,0 +1,61 @@
+.container {
+  width: 100%;
+  display: flex;
+}
+
+.left-box {
+  width: 50vw;
+  height: 100vh;
+  text-align: center;
+  color: #eff1e4;
+}
+
+.right-box {
+  width: 50vw;
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  color: #eff1e4;
+}
+
+@media (max-width: 700px) {
+  .right-box {
+    width: 100vw;
+    height: auto;
+    overflow-y: visible;
+    overflow-x: visible;
+    color: #eff1e4;
+  }
+
+  .container {
+    width: 100%;
+    display: inline-block;
+  }
+
+  .left-box {
+    width: 100vw;
+    height: auto;
+    text-align: center;
+    color: #eff1e4;
+  }
+}
+
+.intro-box {
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+.resume-entry-box {
+  margin-top: 80px;
+  margin-right: 50px;
+}
+
+.projects-box {
+  margin-top: 80px;
+  margin-right: 50px;
+}
+
+.articles-box {
+  margin-top: 80px;
+  margin-right: 50px;
+}

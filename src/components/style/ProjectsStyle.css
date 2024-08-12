@@ -1,0 +1,18 @@
+.project-box {
+  margin-left: 20px;
+}
+
+.project-tech-stack {
+  padding: 5px;
+  border: solid;
+  border-radius: 15px;
+}
+
+.project-name {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.project-description {
+  padding-bottom: 10px;
+}

@@ -1,0 +1,22 @@
+.article-box {
+  margin-left: 20px;
+}
+
+.article-box-hovered {
+  margin-left: 20px;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.article-name {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.article-link {
+  padding-bottom: 10px;
+}
+
+.article-description {
+  padding-bottom: 10px;
+}

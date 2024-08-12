@@ -1,0 +1,33 @@
+.resume-box {
+  width: 100%;
+  display: flex;
+  margin-left: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.resume-box-hovered {
+  width: 100%;
+  display: flex;
+  margin-left: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.date {
+  width: 30%;
+  font-weight: bold;
+}
+
+.title-and-description {
+  width: 70%;
+}
+
+.title {
+  padding-bottom: 20px;
+}
+
+.description {
+  padding-right: 25px;
+}

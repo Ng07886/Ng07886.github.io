@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Typography, Stack, Paper } from "@mui/material";
+import { Box, Typography, Stack } from "@mui/material";
 import "../style/ProjectsStyle.css";
 
 type ProjectProps = {

@@ -1,7 +1,5 @@
 import React from "react";
-import { Breadcrumbs, Link, Typography, Stack } from "@mui/material";
-import ReactDOM from "react-dom";
-import AnchorLink from "react-anchor-link-smooth-scroll";
+import { Link, Stack } from "@mui/material";
 
 function Navigation() {
   return (

@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Paper, Stack, Link } from "@mui/material";
+import { Box, Stack, Link } from "@mui/material";
 import AssignmentIcon from "@mui/icons-material/Assignment";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
@@ -9,7 +9,7 @@ function Icons() {
   return (
     <Box className="icons">
       <Stack direction="row" spacing={2} justifyContent="center">
-        <Link href="../data/Resume-Noel-Gon.pdf">
+        <Link href="/Resume-Noel-Gon.pdf">
           <AssignmentIcon sx={{ color: "#eff1e4" }} fontSize="large" />
         </Link>
         <Link

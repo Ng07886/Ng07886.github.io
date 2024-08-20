@@ -4,7 +4,7 @@ import "../style/introStyle.css";
 
 function Intro() {
   return (
-    <Box className="intro" >
+    <Box className="intro">
       <Typography variant="body2">
         I am a Software Engineer with 3 years of experience, proficient in
         React. I have contributed to developing NCR Voyix’s advanced restaurant
